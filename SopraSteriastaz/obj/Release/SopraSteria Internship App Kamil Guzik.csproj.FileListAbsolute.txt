@@ -14,3 +14,19 @@ C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Rel
 C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Release\SopraSteria Internship App Kamil Guzik.csproj.GenerateResource.Cache
 C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Release\SopraSteriaInternship.exe
 C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Release\SopraSteriaInternship.pdb
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\bin\Release\SopraSteriaInternship.exe.config
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Release\SopraSteriaInternship.exe
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Release\SopraSteriaInternship.pdb
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\bin\Release\SopraSteriaInternship.exe
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\bin\Release\SopraSteriaInternship.pdb
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\bin\Release\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\bin\Release\RestSharp.dll
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\bin\Release\Simple.Data.dll
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\bin\Release\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Release\SopraSteriastaz.MainForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Release\SopraSteriaInternship.Properties.Resources.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Release\SopraSteriastaz.SaveSpecifiedSkillsForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Release\SopraSteriastaz.UpdateDetailsForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Release\SopraSteriastaz.UserCreationForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Release\SopraSteriastaz.UserLogInForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Release\SopraSteria Internship App Kamil Guzik.csproj.GenerateResource.Cache

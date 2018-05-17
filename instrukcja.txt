@@ -1,15 +1,30 @@
-Ta aplikacja wykorzystuje Windows Forms z pakietu .NET.
+Ta aplikacja wykorzystuje Windows Forms z pakietu .NET oraz
+pakiet RestSharp (http://restsharp.org/).
 
-Jest ona prost¹ aplikacj¹ okienkow¹, nazwy przycisków odpowiadaj¹
-ich funkcjom np. Create User pozwala utworzyæ nowego u¿ytkownika,
-Get Skills zwraca umiejêtnoœci z serwera itp.
+Program jest prost¹ aplikacj¹ okienkow¹, nazwy przycisków odpowiadaj¹
+ich funkcjom, które byl zawarte na serwerze z instrukcj¹ dotycz¹c¹ zadania
+np. Create User pozwala utworzyæ nowego u¿ytkownika,
+Get All Skills zwraca umiejêtnoœci z serwera itp.
 
 Niektóre z przycisków otwieraj¹ nowe formularze tak by ³atwiej
-wype³niæ wymagane dane (np. Create User, Update User Data).
+wype³niæ wymagane dane (np. Create User, Update User Details).
 
 By móc wykonywaæ akcje w programie (oprócz tworzenia nowego
 u¿ytkownika) nale¿y siê zalogowaæ na istniej¹ce konto (Log in).
 
+Porady dotycz¹ce przycisków:
+
+Id of wanted user jest wykorzystywane do dzia³ania ka¿dego z 3
+przycisków pod jego polem. Dane przez nie zwracane s¹ wyœwietlane
+w polu User Description.
+
+
+Przyciski Create user, Log in, Update User Details, Save Specified Skills
+otwieraj¹ nowe okienka, do których nale¿y wprowadziæ odpowiednie wartoœci.
+
+Add skill wymaga wpisania umiejêtnoœci w pole New Skill.
+
+Get All Skills zwraca umiejêtnoœci z serwera w polu Skills.
 
 WA¯NE:
 Z powodu problemów z serwerami istnieje mo¿liwoœæ wyst¹pienia

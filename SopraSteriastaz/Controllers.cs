@@ -169,6 +169,7 @@ namespace SopraSteriastaz
 
             if (response.StatusCode == HttpStatusCode.OK)
             {
+                //may not work correctly, could not be tested due to server being not avaiable
                 SkillDTO [] sDTO = new JsonDeserializer().Deserialize<SkillDTO[]>(response);
                 return sDTO;
             }
