@@ -1,0 +1,20 @@
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\RestSharp.dll
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\Simple.Data.dll
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteria Internship App Kamil Guzik.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.MainForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.SaveSpecifiedSkillsForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.UpdateDetailsForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.UserCreationForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.UserLogInForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteria Internship App Kamil Guzik.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\SopraSteriaInternship.exe.config
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\SopraSteriaInternship.exe
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\SopraSteriaInternship.pdb
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriaInternship.Properties.Resources.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriaInternship.exe
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriaInternship.pdb
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\bin\Debug\SopraSteriaInternship.exe.config
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Debug\SopraSteriaInternship.exe
+C:\Users\USER\Desktop\PRACA\Sopra Steria\CommApp\SopraSteriastaz\obj\Debug\SopraSteriaInternship.pdb

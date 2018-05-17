@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\SopraSteriastaz.exe.config
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\SopraSteriastaz.exe
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\SopraSteriastaz.pdb
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\Simple.Data.dll
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.Properties.Resources.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.exe
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.pdb
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\RestSharp.dll
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.MainForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.SaveSpecifiedSkillsForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.UpdateDetailsForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.UserCreationForm.resources
+C:\Users\USER\Desktop\PRACA\Sopra Steria\SopraSteriastaz\SopraSteriastaz\obj\Debug\SopraSteriastaz.UserLogInForm.resources
