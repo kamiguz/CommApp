@@ -1,0 +1,22 @@
+Ta aplikacja wykorzystuje Windows Forms z pakietu .NET.
+
+Jest ona prost¹ aplikacj¹ okienkow¹, nazwy przycisków odpowiadaj¹
+ich funkcjom np. Create User pozwala utworzyæ nowego u¿ytkownika,
+Get Skills zwraca umiejêtnoœci z serwera itp.
+
+Niektóre z przycisków otwieraj¹ nowe formularze tak by ³atwiej
+wype³niæ wymagane dane (np. Create User, Update User Data).
+
+By móc wykonywaæ akcje w programie (oprócz tworzenia nowego
+u¿ytkownika) nale¿y siê zalogowaæ na istniej¹ce konto (Log in).
+
+
+WA¯NE:
+Z powodu problemów z serwerami istnieje mo¿liwoœæ wyst¹pienia
+bugów w aplikacji. Niestety, nie by³em w stanie przetestowaæ jej 
+wszystkich funkcjonalnoœci, gdy¿ serwery (g³owny i z instrukcj¹
+do zadania) by³y czêsto niedostêpne, a to powodowa³o ¿e dog³êbne
+testowanie nie zawsze by³o mo¿liwe. 
+
+
+
